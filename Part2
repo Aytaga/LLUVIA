@@ -1,0 +1,34 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int edad = 20;
+        string nombre = "Aytana";
+        bool tieneLicencia = true;
+
+        // Condición para la edad
+        if (edad >= 18)
+        {
+            Console.WriteLine($"{nombre} puede conducir");
+        }
+        else
+        {
+            Console.WriteLine($"{nombre} es menor de edad");
+        }
+
+        // Condición para la licencia
+        if (tieneLicencia)
+        {
+            Console.WriteLine($"{nombre} tiene licencia");
+        }
+        else
+        {
+            Console.WriteLine($"{nombre} no tiene licencia");
+        }
+        
+
+          finMain
+    }
+}
