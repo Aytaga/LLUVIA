@@ -1,0 +1,12 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int edad = 25;              
+        string nombre = "Aytana";    
+        bool tieneLicencia = true;   
+        finMain
+    }
+}
